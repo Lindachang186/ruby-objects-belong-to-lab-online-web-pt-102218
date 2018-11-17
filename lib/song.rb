@@ -6,3 +6,5 @@ class Song
  end
 
 end
+
+song = Artist.new("Name")
